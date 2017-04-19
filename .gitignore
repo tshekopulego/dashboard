@@ -1,0 +1,13 @@
+node_modules
+public
+.tmp
+.tmp-files/*
+.sass-cache
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+/server/config/environment/development.js
+/server/config/environment/demo.js
+*.sublime-project
+*.sublime-workspace
